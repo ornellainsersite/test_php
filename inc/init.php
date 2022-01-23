@@ -1,6 +1,6 @@
 <?php
 
-//Déclaration des variables
+//Déclaration des variables identifiants et mdp
 $user = "root";
 $pass = "";
 

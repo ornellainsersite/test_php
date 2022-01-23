@@ -19,4 +19,3 @@ Le but est de vraiment montrer ce que tu sais faire
 Tu peux accéder à /adminer.php pour avoir un "phpmyadmin" version light.
 
 Une fois le test terminé tu peux nous ajouter sur ton projet github (identifiant nassimleader).
-# test

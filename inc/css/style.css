@@ -1,0 +1,48 @@
+/* PAGE LOGIN */
+body{
+  padding-top: 210px;
+}
+
+.container-sm{
+  background: rgba( 160, 160, 63, 0.55 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 10px );
+  -webkit-backdrop-filter: blur( 10px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+  padding-top: 15px;
+  padding-bottom: 25px;
+}
+
+.btn{
+  background: rgba( 160, 160, 63, 0.55 );
+  border: rgba( 160, 160, 63, 0.55 );
+}
+.btn:hover{
+  background: rgba( 160, 160, 63, 0.30 );
+  border: rgba( 160, 160, 63, 0.30 );
+}
+/* FIN PAGE LOGIN */
+
+/*  PAGE INDEX */
+ul, li, a{
+  list-style-type: none;
+  text-decoration: none;
+  float: left;
+  font-size: 25px;
+  padding-left: 10px;
+  margin-left: 15px;
+  color:rgba(71, 71, 46, 0.55); 
+}
+a:hover{
+color: rgba(71, 71, 46, 0.30); 
+}
+.clear{
+  clear: both;
+}
+
+p{
+  margin-left: 15px;
+  font-size: 25px;
+}
+/* FIN PAGE INDEX */

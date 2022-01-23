@@ -1,3 +1,11 @@
+# NB :
+Bonjour Nassim, 
+Je vous souhaite bonne réception.
+J'ai fait au mieux et en fonction de mes connaissances.
+Cordialement,
+Ornella
+
+## Instructions
 voici l'énoncé du test technique, merci de bien lire complètement l'email :
 
 Le but est de se concentrer sur la partie PHP qui consiste à faire fonctionner le formulaire de la manière suivante :

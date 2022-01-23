@@ -1,10 +1,4 @@
 <?php
-/*******************************************************************************
-Le sujet est assez basique :
-
--  et si l'utilisateur fait partie du groupe 2.
-
-*******************************************************************************/
 require ('inc/init.php');
 session_start();
 
